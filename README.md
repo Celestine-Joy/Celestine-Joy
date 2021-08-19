@@ -1,16 +1,16 @@
 ### Hi there 👋
 
-<!--
-**Celestine-Joy/Celestine-Joy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I am Celestine Joy. I am a student at Sahrdaya College of Engineering and Technology doing my B.Tech in computer science engineering. I am new to Github and having fun in learning new things.
+
+
+ ### Curently learning
+ 🐍 Python
+ 🐭 Go
+ 
+ ### My Stats
+ 
+ ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Celestine-Joy&hide=contribs,prs)
+
+
