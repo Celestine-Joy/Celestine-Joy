@@ -11,7 +11,7 @@ I'm Celestine Joy. I am a student at Sahrdaya College of Engineering and Technol
  
  ### My Stats
  
- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Celestine-Joy&count_private=true)
+ ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Celestine-Joy)
 
 
 
