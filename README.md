@@ -7,7 +7,7 @@ I'm Celestine Joy. I am a student at Sahrdaya College of Engineering and Technol
 
  ### Curently learning
 <p> 🐍 Python
-<p> 🐭 Go
+<p> ☕ Java
  
  ### My Stats
  
