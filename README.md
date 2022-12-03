@@ -2,7 +2,7 @@
 
 
 
-I'm Celestine Joy. I am a student at Sahrdaya College of Engineering and Technology doing my B.Tech in computer science engineering. I am new to Github and am having fun in learning new things.
+I'm Celestine Joy. I am a student at Sahrdaya College of Engineering and Technology doing my B.Tech in computer science engineering. I am new to Github and am having fun in learning new things and technologies 
 
 
  ### Curently learning
