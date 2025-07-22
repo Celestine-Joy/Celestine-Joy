@@ -2,12 +2,14 @@
 
 
 
-I'm Celestine Joy. I am a student at Sahrdaya College of Engineering and Technology doing my B.Tech in computer science engineering. I am new to Github and am having fun in learning new things and technologies 
+I'm Celestine Joy. I am a 
+associate test engineer at EY Global Delivery Services. I was a former student at Sahrdaya College of Engineering and Technology where I done my B.Tech in computer science engineering. I am currently exploring Github and am having fun in learning new things and technologies .
 
-
- ### Curently learning
 <p> 🐍 Python
 <p> ☕ Java
+ ### Curently learning
+ <p> ML and AI</p>
+
  
  ### My Stats
  
