@@ -6,6 +6,7 @@ I'm Celestine Joy. I am an associate test engineer at EY Global Delivery Service
 
 <p> 🐍 Python </p>
 <p> ☕ Java </p>
+
 ### Curently learning
  
  <p> ML and AI</p>
