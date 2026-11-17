@@ -16,7 +16,7 @@
 - 💼 Former **Associate Test Engineer** at EY Global Delivery Services
 - 🏫 B.Tech in Computer Science & Engineering, **Sahrdaya College of Engineering and Technology (SCET)**
 - 🤖 Currently diving into **Machine Learning & AI**
-- 🌱 Interested in [network security, applied ML]
+- 🌱 Interested in network security, applied ML, and Analytics
 
 ## 🧰 Tech stack
 
